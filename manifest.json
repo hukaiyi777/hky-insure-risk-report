@@ -1,0 +1,20 @@
+{
+  "name": "hky-insure-risk-report",
+  "display_name": "养老与传承标准化风险分析报告",
+  "version": "1.0.0",
+  "description": "读取结构化会谈纪要，一键产出暖黄版标准化风险评估报告：家庭架构图 PNG、人·权·财三主线、P0–P3 风险排序 + 五角度交叉分析、法律释义出处、工具矩阵（只给方向）、风险盘点总表、二次沟通议程。报告只讲风险与逻辑，不推具体产品。",
+  "author": "清流计划 · 杨俊梅",
+  "built": "2026-08-17",
+  "path": ".",
+  "dependencies": [
+    "python-docx",
+    "pillow"
+  ],
+  "skills": [
+    {
+      "name": "hky-insure-risk-report",
+      "path": ".",
+      "display_name": "养老与传承标准化风险分析报告"
+    }
+  ]
+}
